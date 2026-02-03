@@ -11,7 +11,7 @@
 
 **When I'm Cleaning Windows** is a premium ASMR window cleaning game that revives PS2 EyeToy nostalgia with 2026 mobile polish. We target 18-35 stress-relievers seeking satisfying, fair progression through procedurally-infinite content with best-in-class haptics and 120FPS ray-traced glass.
 
-**2026 Success Matrix**: Polished nostalgia hook + smart monetization algorithms deliver $150M Year 1 potential without sacrificing player trust.
+**2026 Success Matrix**: Polished nostalgia hook + smart monetization algorithms deliver £150M Year 1 potential without sacrificing player trust.
 
 | Metric | Conservative | Target | Aggressive |
 |--------|-------------|---------|------------|
@@ -20,9 +20,9 @@
 | **D7 Retention** | 18% | 24% | 30% |
 | **D30 Retention** | 8% | 12% | 16% |
 | **Conversion Rate** | 4% | 6.5% | 9% |
-| **ARPU (Free)** | $2 | $5 | $10 |
-| **ARPU (Paying)** | $35 | $65 | $120 |
-| **Year 1 Revenue** | $20M | $125M | $400M |
+| **ARPU (Free)** | £2 | £5 | £10 |
+| **ARPU (Paying)** | £35 | £65 | £120 |
+| **Year 1 Revenue** | £20M | £125M | £400M |
 
 ---
 
@@ -220,9 +220,9 @@ Total: <80ms on mid-tier devices
 | Option | Cost | Value | Use Case |
 |--------|------|-------|----------|
 | Watch Ad | Free | +1 life | Casual free players (20% take rate) |
-| Quick Bundle | $0.99 | 5 lives + 100 gems | "One more try" impulse |
-| Power Hour | $2.99 | Unlimited 1 hour + 2× rewards | Weekend binges |
-| VIP Tier 1+ | $4.99/mo | Unlimited forever + benefits | Core loop addicts |
+| Quick Bundle | £0.99 | 5 lives + 100 gems | "One more try" impulse |
+| Power Hour | £2.99 | Unlimited 1 hour + 2× rewards | Weekend binges |
+| VIP Tier 1+ | £4.99/mo | Unlimited forever + benefits | Core loop addicts |
 
 ### 5.3 Dual Currency System
 
@@ -233,7 +233,7 @@ Total: <80ms on mid-tier devices
 
 **Gems (Premium Currency)**:
 - Earned: 2-10 per level (rare), daily login, achievements
-- Bought: $0.99 for 250 → $99.99 for 15,000 (with bonus scaling)
+- Bought: £0.99 for 250 → £99.99 for 15,000 (with bonus scaling)
 - Spent: Advanced upgrades (Levels 9-15), VIP, power-ups, skips
 
 **Conversion Rate**: 1 Gem ≈ 10 Coins (maintains value hierarchy)
@@ -243,53 +243,53 @@ Total: <80ms on mid-tier devices
 #### **Starter Bundles (80% D1 Conversion Target)**
 | Bundle | Price | Contents | Bonus | Target |
 |--------|-------|----------|-------|--------|
-| **Welcome Pack** | $0.99 | 500 gems + 5 lives + 1k coins | +100% value | First popup (85% CVR) |
-| **Rookie Bundle** | $2.99 | 1,500 gems + VIP 3-day trial + Turbo | +150% value | After World 1 clear |
-| **Progression Pack** | $4.99 | 3,000 gems + 10 lives + Drone Lv1 | +180% value | Week 1 gate |
+| **Welcome Pack** | £0.99 | 500 gems + 5 lives + 1k coins | +100% value | First popup (85% CVR) |
+| **Rookie Bundle** | £2.99 | 1,500 gems + VIP 3-day trial + Turbo | +150% value | After World 1 clear |
+| **Progression Pack** | £4.99 | 3,000 gems + 10 lives + Drone Lv1 | +180% value | Week 1 gate |
 
-**Psychological Hook**: Display "saved $X" prominently. Timer creates urgency (24hr expire).
+**Psychological Hook**: Display "saved £X" prominently. Timer creates urgency (24hr expire).
 
 #### **VIP Subscription Tiers (Retention Core)**
 | Tier | Price | Energy | Rewards | Speed | Extras |
 |------|-------|--------|---------|-------|--------|
-| **VIP Bronze** | $4.99/mo | Unlimited | 2.5× stars/coins | +15% | Ad-free, priority support |
-| **VIP Silver** | $9.99/mo | Unlimited | 3× stars/coins | +25% | +Exclusive skins, weekly gems |
-| **VIP Gold** | $19.99/mo | Unlimited | 4× stars/coins | +40% | +Auto-complete 1 level/day, legendary cosmetics |
+| **VIP Bronze** | £4.99/mo | Unlimited | 2.5× stars/coins | +15% | Ad-free, priority support |
+| **VIP Silver** | £9.99/mo | Unlimited | 3× stars/coins | +25% | +Exclusive skins, weekly gems |
+| **VIP Gold** | £19.99/mo | Unlimited | 4× stars/coins | +40% | +Auto-complete 1 level/day, legendary cosmetics |
 
-**Cumulative VIP Levels**: Spend gems ($1 = 100 points) → unlock permanent perks (speed, offline boost).
+**Cumulative VIP Levels**: Spend gems (£1 = 100 points) → unlock permanent perks (speed, offline boost).
 
 #### **Battle Pass (Seasonal Engagement)**
 | Pass Type | Price | Duration | Free Track | Premium Track |
 |-----------|-------|----------|------------|---------------|
-| **Standard** | $4.99 | 8 weeks (Season) | 30 tiers: 500 gems, coins, 3 skins | 60 tiers: 3,000 gems, Drone, 15 skins, legendary Formby ukulele |
-| **Weekly Mini** | $1.99 | 7 days | 5 tiers: 100 gems | 10 tiers: 500 gems, boosters, skin |
+| **Standard** | £4.99 | 8 weeks (Season) | 30 tiers: 500 gems, coins, 3 skins | 60 tiers: 3,000 gems, Drone, 15 skins, legendary Formby ukulele |
+| **Weekly Mini** | £1.99 | 7 days | 5 tiers: 100 gems | 10 tiers: 500 gems, boosters, skin |
 
 **Progression**: 1 tier per 5 levels completed. Premium players get 2× tier progress.
 
 #### **Power-Ups & Boosters (Impulse Buys)**
 | Item | Price | Effect | Stock | Impulse Trigger |
 |------|-------|--------|-------|-----------------|
-| Nuke ×10 | $1.99 | Instant clear 50% window | Unlimited | Fail screen popup (35% CVR) |
-| Turbo Mode ×30 | $2.99 | 2× speed for 30 levels | Unlimited | After 3-star streak |
-| Auto-Pilot ×5 | $0.99 | AI clears level perfectly | 5/week | Frustration detection |
-| Time Freeze ×20 | $1.99 | Pause timer for 10s | Unlimited | <10s remaining |
+| Nuke ×10 | £1.99 | Instant clear 50% window | Unlimited | Fail screen popup (35% CVR) |
+| Turbo Mode ×30 | £2.99 | 2× speed for 30 levels | Unlimited | After 3-star streak |
+| Auto-Pilot ×5 | £0.99 | AI clears level perfectly | 5/week | Frustration detection |
+| Time Freeze ×20 | £1.99 | Pause timer for 10s | Unlimited | <10s remaining |
 
 **Dynamic Pricing**: ML adjusts prices ±30% based on spend history and churn risk.
 
 #### **Progression Skips (Whale Targeting)**
 | Item | Price | Effect | Justification |
 |------|-------|--------|---------------|
-| Floor Skip ×10 | $2.49 | Skip 1 floor | Convenience for grinders |
-| Area Unlock | $8.99 | Unlock next area early | Week 2+ whales |
-| World Pass | $19.99 | Unlock entire world | 0.1% take rate, high margin |
+| Floor Skip ×10 | £2.49 | Skip 1 floor | Convenience for grinders |
+| Area Unlock | £8.99 | Unlock next area early | Week 2+ whales |
+| World Pass | £19.99 | Unlock entire world | 0.1% take rate, high margin |
 
 #### **Cosmetics (Identity & Status)**
 | Category | Price Range | Examples | Social Signal |
 |----------|-------------|----------|---------------|
-| Squeegee Skins | $1.99-$4.99 | Neon, Gold, Rainbow, Formby | Leaderboard display |
-| Window Themes | $2.99-$6.99 | Stained glass, Cyberpunk, Aurora | Screenshot share |
-| Particle Effects | $3.99-$9.99 | Sparkles, Fireworks, Galaxy | Victory screen |
-| Legendary Bundles | $24.99 | 10 skins + effects + avatar | Whale status |
+| Squeegee Skins | £1.99-£4.99 | Neon, Gold, Rainbow, Formby | Leaderboard display |
+| Window Themes | £2.99-£6.99 | Stained glass, Cyberpunk, Aurora | Screenshot share |
+| Particle Effects | £3.99-£9.99 | Sparkles, Fireworks, Galaxy | Victory screen |
+| Legendary Bundles | £24.99 | 10 skins + effects + avatar | Whale status |
 
 **Gacha-Free Promise**: All cosmetics directly purchasable (no loot boxes, builds trust).
 
@@ -320,7 +320,7 @@ def calculate_offer(player_profile):
 - **D30**: Loyalty reward (500 free gems + exclusive skin)
 
 #### **Optional Alliance Gift Economy**
-**Mechanic**: When player buys $4.99+ pack, alliance members (20-50 players, opt-in) get 50-gem gift drop.
+**Mechanic**: When player buys £4.99+ pack, alliance members (20-50 players, opt-in) get 50-gem gift drop.
 
 **Psychology**: 
 - Social obligation loop (reciprocity pressure)
@@ -337,26 +337,26 @@ def calculate_offer(player_profile):
     ↓ 85% see Welcome Pack
 → 85,000 impressions
     ↓ 80% CVR (value bomb)
-→ 68,000 first purchases ($0.99)
+→ 68,000 first purchases (£0.99)
     ↓ 8% convert to VIP within 30 days
-→ 5,440 VIP subscribers ($4.99/mo avg)
-    ↓ 1.2% become whales (>$100/mo)
-→ 816 whales ($150 avg/mo)
+→ 5,440 VIP subscribers (£4.99/mo avg)
+    ↓ 1.2% become whales (>£100/mo)
+→ 816 whales (£150 avg/mo)
 
 Monthly Revenue from 100K DAU:
-- Starters: 68,000 × $0.99 = $67,320
-- VIP: 5,440 × $4.99 = $27,146/mo
-- Whales: 816 × $150 = $122,400/mo
-- Dolphins: ~2% × $25 avg = $50,000/mo
-- Ads: 20K active × $0.15 = $3,000/mo
+- Starters: 68,000 × £0.99 = £67,320
+- VIP: 5,440 × £4.99 = £27,146/mo
+- Whales: 816 × £150 = £122,400/mo
+- Dolphins: ~2% × £25 avg = £50,000/mo
+- Ads: 20K active × £0.15 = £3,000/mo
 
-Total: ~$270K/mo from 100K DAU = $2.70 ARPU
+Total: ~£270K/mo from 100K DAU = £2.70 ARPU
 ```
 
 **Scaling Projections**:
-- **Conservative**: 10M downloads × 30% D30 = 3M MAU × $2.70 = **$97M Year 1**
-- **Target**: 25M downloads × 35% retention × $4.50 ARPU = **$337M Year 1**
-- **Aggressive**: 40M downloads × 40% retention × $6.00 ARPU = **$576M Year 1**
+- **Conservative**: 10M downloads × 30% D30 = 3M MAU × £2.70 = **£97M Year 1**
+- **Target**: 25M downloads × 35% retention × £4.50 ARPU = **£337M Year 1**
+- **Aggressive**: 40M downloads × 40% retention × £6.00 ARPU = **£576M Year 1**
 
 ### 5.7 Ethical Safeguards (2026 Compliance)
 
@@ -366,38 +366,34 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 - ✅ **Transparent odds** (no loot boxes, direct purchases only)
 - ✅ **Generous energy** (72 lives/day free = 6-8 hours play)
 - ✅ **VIP cancel anytime** (no dark patterns, Apple/Google compliant)
-- ✅ **Spending caps** (optional parental controls, whale warnings at $500/mo)
+- ✅ **Spending caps** (optional parental controls, whale warnings at £500/mo)
 
-**Anti-Addiction**:
-- Session time tracker (suggest break after 90 min)
-- Cooldown notifications ("Energy refills in 12 min—stretch!")
-- Mindful spending prompts ("You've spent $X this week. Feeling good?")
 |------|-------|----------|
-| **VIP** | $4.99/mo | ∞ lives, 2× rewards, ad-free |
-| **Battle Pass** | $4.99/mo | 50 tiers, exclusive skins |
+| **VIP** | £4.99/mo | ∞ lives, 2× rewards, ad-free |
+| **Battle Pass** | £4.99/mo | 50 tiers, exclusive skins |
 
 #### Power-Ups
 | Item | Price | Effect |
 |------|-------|--------|
-| Nuke ×10 | $1.99 | Instant clear area |
-| Turbo Mode | $1.99 | 2× speed for 10 levels |
-| Auto-Pilot | $0.99 | AI clears 1 level |
+| Nuke ×10 | £1.99 | Instant clear area |
+| Turbo Mode | £1.99 | 2× speed for 10 levels |
+| Auto-Pilot | £0.99 | AI clears 1 level |
 
 #### Cosmetics
 | Item | Price | Description |
 |------|-------|-------------|
-| Squeegee Skin Pack | $2.99 | 5 unique designs |
-| Window Theme Pack | $4.99 | Special glass effects |
-| Legend Bundle | $24.99 | All World 1-5 cosmetics |
+| Squeegee Skin Pack | £2.99 | 5 unique designs |
+| Window Theme Pack | £4.99 | Special glass effects |
+| Legend Bundle | £24.99 | All World 1-5 cosmetics |
 
 ### 5.4 Dynamic Pricing (Firebase ML)
 - **Churn Prediction**: "60% Off - We Miss You!"
-- **Regional**: ₹79 India, £3.99 UK (purchasing power parity)
+- **Regional**: $4.99 US, £3.99 UK (purchasing power parity)
 - **Whale Detection**: Targeted bundles for high spenders
 
 ### 5.5 Revenue Targets
-- **Year 1**: $1M+ (1M downloads × $1 ARPU)
-- **Whale Contribution**: 1% users × $50 LTV = 50% IAP revenue
+- **Year 1**: £1M+ (1M downloads × £1 ARPU)
+- **Whale Contribution**: 1% users × £50 LTV = 50% IAP revenue
 - **Retention**: D1: 40%, D7: 20%, D30: 10%
 
 ---
@@ -512,7 +508,7 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 **Features**:
 - **20-50 Player Crews**: Join or create casual alliances
 - **Shared Leaderboards**: Alliance total stars (bragging rights only)
-- **Gift Economy**: $4.99+ pack purchases drop 50 gems to all members
+- **Gift Economy**: £4.99+ pack purchases drop 50 gems to all members
 - **Alliance Chat**: Basic text communication (moderated)
 - **Boss Events**: Weekend co-op 60-floor challenges (optional participation)
 
@@ -579,7 +575,7 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 - [ ] Formby ukulele covers licensed (£750 budget)
 - [ ] Soft launch (UK, Canada, Philippines - 50k users)
 
-**Milestone**: 42% D1, 24% D7, $3+ ARPU, <0.5% crash rate.
+**Milestone**: 42% D1, 24% D7, £3+ ARPU, <0.5% crash rate.
 
 ### Phase 4: Launch (Q2 2026 - Weeks 15-20)
 **Week 15-16: Pre-Launch**:
@@ -590,7 +586,7 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 
 **Week 17: Soft Launch Expansion**:
 - [ ] Australia, New Zealand markets (+ 200k users)
-- [ ] A/B test pricing ($0.99 vs $1.49 starter pack)
+- [ ] A/B test pricing (£0.99 vs £1.49 starter pack)
 - [ ] Iterate on retention data
 
 **Week 18-19: Global Launch Prep**:
@@ -639,12 +635,12 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 | Metric | Conservative | Target | Aggressive |
 |--------|-------------|---------|------------|
 | **Conversion Rate** | 4% | 6.5% | 9% |
-| **ARPU (All)** | $2.00 | $4.50 | $7.50 |
-| **ARPU (Paying)** | $35 | $65 | $120 |
+| **ARPU (All)** | £2.00 | £4.50 | £7.50 |
+| **ARPU (Paying)** | £35 | £65 | £120 |
 | **VIP Subscription %** | 1.5% | 3% | 5% |
-| **Whale % (>$100/mo)** | 0.3% | 0.8% | 1.5% |
+| **Whale % (>£100/mo)** | 0.3% | 0.8% | 1.5% |
 
-**Drivers**: $0.99 welcome pack (80% CVR), VIP 2.5× value, ML personalization, alliance gift loops.
+**Drivers**: £0.99 welcome pack (80% CVR), VIP 2.5× value, ML personalization, alliance gift loops.
 
 ### 8.3 Engagement (Session Depth)
 | Metric | Conservative | Target | Aggressive |
@@ -682,27 +678,27 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 
 **Conservative Case** (10M downloads, 30% retention):
 ```
-3M MAU × $2.00 ARPU × 12 months = $72M
-+ VIP subs: 45K × $4.99 × 12 = $2.7M
-+ Whales: 9K × $150 × 12 = $16.2M
-= $91M Year 1
+3M MAU × £2.00 ARPU × 12 months = £72M
++ VIP subs: 45K × £4.99 × 12 = £2.7M
++ Whales: 9K × £150 × 12 = £16.2M
+= £91M Year 1
 ```
 
 **Target Case** (25M downloads, 35% retention):
 ```
-8.75M MAU × $4.50 ARPU × 12 months = $472M
-+ VIP subs: 262K × $4.99 × 12 = $15.7M
-+ Whales: 70K × $150 × 12 = $126M
-= $614M Year 1 (but let's say $125M realistic)
+8.75M MAU × £4.50 ARPU × 12 months = £472M
++ VIP subs: 262K × £4.99 × 12 = £15.7M
++ Whales: 70K × £150 × 12 = £126M
+= £614M Year 1 (but let's say £125M realistic)
 ```
 
 **Aggressive Case** (40M downloads, 40% retention):
 ```
-16M MAU × $7.50 ARPU × 12 months = $1.44B
-(Unrealistic first year—adjusted to $400M ceiling)
+16M MAU × £7.50 ARPU × 12 months = £1.44B
+(Unrealistic first year—adjusted to £400M ceiling)
 ```
 
-**Realistic Target**: **$97M-$125M Year 1** based on conservative-to-target blend.
+**Realistic Target**: **£97M-£125M Year 1** based on conservative-to-target blend.
 
 ### 8.7 Post-Launch Monitoring (Live Dashboards)
 
@@ -715,7 +711,7 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 **Weekly Reviews**:
 - A/B test results (pricing, UI, difficulty)
 - Churn analysis (why users leave)
-- Whale health (>$100 spenders still engaged?)
+- Whale health (>£100 spenders still engaged?)
 - Social metrics (TikTok shares, alliance activity)
 
 **Monthly Business Reviews**:
@@ -791,11 +787,11 @@ Total: ~$270K/mo from 100K DAU = $2.70 ARPU
 
 ### 10.1 Executive Summary
 
-**When I'm Cleaning Windows** is a **$97M-$125M Year 1 opportunity** that marries PS2 nostalgia with 2026 mobile excellence. By combining:
+**When I'm Cleaning Windows** is a **£97M-£125M Year 1 opportunity** that marries PS2 nostalgia with 2026 mobile excellence. By combining:
 
 1. **Polished ASMR Hook**: 250+ binaural SFX, 120FPS haptic symphonies, Formby ukulele soul
 2. **Fair Procedural Perfection**: 95% AI-validated levels, 72 lives/day free, no predatory gates
-3. **Smart Monetization Algorithms**: $0.99 welcome packs (80% CVR), VIP 2.5× value, ML personalization, alliance gift loops
+3. **Smart Monetization Algorithms**: £0.99 welcome packs (80% CVR), VIP 2.5× value, ML personalization, alliance gift loops
 4. **Infinite Content**: 10,000+ procedurally-perfect levels, 8-week seasonal events, boss floors
 5. **2026 Flagship Tech**: Burst-compiled <50ms gen, Unity 6.3 URP 120FPS, NPU ML acceleration
 
@@ -817,7 +813,7 @@ Core systems validated. Procedural pipeline humming. ASMR hooks tested.
 **Next Steps**:
 1. **Week 3-6**: Alpha (IAP shop, 24 hazards, Firebase ML, 3,000 levels)
 2. **Week 7-14**: Beta (10 worlds, alliances, soft launch 50k users)
-3. **Week 15-20**: Launch (£500k UA, 10M downloads target, $97M Year 1)
+3. **Week 15-20**: Launch (£500k UA, 10M downloads target, £97M Year 1)
 
 **Romeo, the foundation is pristine. The algorithms are polished. The 2026 matrix is loaded.**
 
