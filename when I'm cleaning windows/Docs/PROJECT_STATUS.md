@@ -22,7 +22,7 @@
 #### **Phase 2: Monetization (5 files)**
 8. EnergySystem.cs - 72 lives/day, VIP unlimited
 9. CurrencyManager.cs - Dual currency, VIP multipliers
-10. IAPManager.cs - 28 SKUs, $0.99 welcome pack
+10. IAPManager.cs - 28 SKUs, £0.99 welcome pack
 11. VIPManager.cs - 3-tier subscriptions
 12. PersonalizationEngine.cs - ML churn prediction (D1/D3/D7/D14/D30)
 
@@ -118,7 +118,7 @@ Player starts with 72 lives/day free
 ### Monetization Funnel
 ```
 D1: Welcome Pack popup (85% show rate)
-├─ $0.99 = 500 gems + 5 lives + 1k coins
+├─ £0.99 = 500 gems + 5 lives + 1k coins
 └─ 80% CVR target
 
 Energy depleted?
@@ -167,10 +167,10 @@ Main Menu
 
 ### Monetization KPIs
 - **Energy**: 1 per 20min = 72/day (50% more generous)
-- **D1 CVR**: 80% target for $0.99 welcome pack
+- **D1 CVR**: 80% target for £0.99 welcome pack
 - **VIP Value**: Unlimited energy + 2.5-4× rewards forever
-- **ARPU Target**: $4.50 (conservative) → $6.00 (aggressive)
-- **Year 1 Revenue**: $97-125M (25M downloads)
+- **ARPU Target**: £4.50 (conservative) → £6.00 (aggressive)
+- **Year 1 Revenue**: £97-125M (25M downloads)
 
 ---
 
@@ -375,7 +375,7 @@ Docs/
 - ✅ ASMR audio framework (FMOD-ready)
 - ✅ 24 hazard types with world progression
 - ✅ 72 lives/day free energy economy
-- ✅ $0.99 welcome pack with 80% CVR target
+- ✅ £0.99 welcome pack with 80% CVR target
 - ✅ VIP unlimited energy + 2.5-4× rewards
 - ✅ D1/D3/D7/D14/D30 churn-triggered offers
 - ✅ Firebase integration framework (Analytics, Remote Config, Cloud Save)

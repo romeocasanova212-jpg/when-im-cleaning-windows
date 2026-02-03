@@ -37,12 +37,12 @@
 - **Fair Progression**: 10,000+ AI-validated levels, 95% guaranteed solvable (free-to-play complete)
 - **Sensory Excellence**: 250+ binaural ASMR sounds + haptic feedback symphonies
 - **Infinite Variety**: Procedural generation guarantees never-repeating content
-- **Respectful Monetization**: 72 free lives/day + $0.99 booster packs (no P2W)
+- **Respectful Monetization**: 72 free lives/day + £0.99 booster packs (no P2W)
 
 ### The Market Opportunity
 - **Genre**: Puzzle/Simulation × ASMR (50M+ ASMR community on YouTube)
 - **Demographics**: Ages 18-35 stress-relievers (Millennial/Gen-Z casual gamers)
-- **Comparison Set**: Candy Crush ($1.8B/year), Royal Match ($900M/year), Last War ($500M/year)
+- **Comparison Set**: Candy Crush (£1.8B/year), Royal Match (£900M/year), Last War (£500M/year)
 - **Differentiation**: ASMR + Haptics (unique sensory layer)
 
 ### 2026 Targeting
@@ -50,8 +50,8 @@
 |--------|---|---|---|
 | Year 1 Downloads | 10M | 25M | 40M |
 | D1 Retention | 35% | 42% | 48% |
-| ARPU | $2 | $5 | $10 |
-| Year 1 Revenue | $20M | **$125M** | $400M |
+| ARPU | £2 | £5 | £10 |
+| Year 1 Revenue | £20M | **£125M** | £400M |
 
 **Assessment**: **A-Tier Game Design** with strong viral potential and monetization runway.
 
@@ -96,7 +96,7 @@
 
 #### 💎 Pillar 4: Respectful Monetization
 - **Energy System**: 72 lives/day free (1 per 20 minutes, 40 per hard reset)
-- **Price Points**: $0.99 booster packs (small friction, not punitive)
+- **Price Points**: £0.99 booster packs (small friction, not punitive)
 - **VIP Benefits**: 2x currency, +1 life capacity, 3x daily mission rewards
 - **Battle Pass**: Seasonal cosmetic rewards (no gameplay advantage)
 - **Dynamic Pricing**: Per-segment pricing based on player behavior (ML-driven)
@@ -112,13 +112,13 @@
 - **Psychographics**: Seeks relaxation, satisfying mechanics, fair progression
 - **Platform**: Mobile-first (90%+ play on smartphone)
 - **Session Length**: 15-30 minutes per play session
-- **Monetization**: Willing to spend $2-5/month on quality games
+- **Monetization**: Willing to spend £2-5/month on quality games
 
 #### Secondary: ASMR Enthusiasts
 - **Community Size**: 50M+ YouTube subscribers (ASMR category)
 - **Content Creators**: YouTube/TikTok creators will cover game organically
 - **Viral Potential**: ASMR community drives discovery through social media
-- **Spend Pattern**: Higher ARPU ($10-50/month on favorite creators/games)
+- **Spend Pattern**: Higher ARPU (£10-50/month on favorite creators/games)
 
 #### Tertiary: PS2 Nostalgia Seekers
 - **Demographics**: Ages 28-40 (born 1985-1997, grew up with PS2 EyeToy)
@@ -128,7 +128,7 @@
 #### Quaternary: Completionists & Grinders
 - **Demographics**: Hardcore mobile gamers (play 2+ hours/day)
 - **Psychographics**: Driven by progression, leaderboards, achievement systems
-- **Spend Pattern**: High ARPU ($50-200/month), willing to pay for convenience
+- **Spend Pattern**: High ARPU (£50-200/month), willing to pay for convenience
 
 **Addressable Market**: ~500M casual mobile gamers globally, 50M+ ASMR enthusiasts = **3-5% TAM** = **15-25M potential players**
 
@@ -568,24 +568,24 @@ Free Players:
   - Can play indefinitely with patience
 
 Paying Players (Energy Refill):
-  - 1 Energy = $0.99
-  - 5 Energy = $3.99 (20% bulk discount)
-  - 20 Energy = $9.99 (50% bulk discount)
+  - 1 Energy = £0.99
+  - 5 Energy = £3.99 (20% bulk discount)
+  - 20 Energy = £9.99 (50% bulk discount)
   
 Premium Feature (VIP):
   - +1 max energy capacity (72 → 73)
   - Regeneration 2× faster (1 every 10 minutes)
   - Effectively doubles energy availability
   
-Target: Casual players spend $1-2/month on occasional energy
+Target: Casual players spend £1-2/month on occasional energy
 ```
 
 #### Stream 2: VIP Subscription
 ```
 7-Day Trial: FREE (first purchase incentive)
-7-Day: $2.99
-30-Day: $7.99
-90-Day: $19.99 (30% discount)
+7-Day: £2.99
+30-Day: £7.99
+90-Day: £19.99 (30% discount)
 
 Benefits:
   ✓ Double currency rewards (2× coins/gems)
@@ -595,17 +595,17 @@ Benefits:
   ✓ Exclusive cosmetics (cosmetics change monthly)
   ✓ Ad-free gameplay
   
-Target: 5-10% of players convert to VIP ($5-10/month)
+Target: 5-10% of players convert to VIP (£5-10/month)
 ```
 
 #### Stream 3: Gem Packs (Cosmetics & Convenience)
 ```
-Small:  500 gems = $0.99
-Medium: 1250 gems = $2.99 (5% bulk bonus)
-Large:  3000 gems = $5.99 (10% bulk bonus)
-XL:     7500 gems = $12.99 (20% bulk bonus)
-XXL:    20000 gems = $29.99 (33% bulk bonus)
-Premium: 50000 gems = $99.99 (40% bulk bonus)
+Small:  500 gems = £0.99
+Medium: 1250 gems = £2.99 (5% bulk bonus)
+Large:  3000 gems = £5.99 (10% bulk bonus)
+XL:     7500 gems = £12.99 (20% bulk bonus)
+XXL:    20000 gems = £29.99 (33% bulk bonus)
+Premium: 50000 gems = £99.99 (40% bulk bonus)
 
 Gem Store:
   - Cosmetic skins: 50-500 gems (no gameplay impact)
@@ -620,7 +620,7 @@ Free Track:
   - 50 free tiers of cosmetics
   - 1 cosmetic per 2 levels
   
-Premium Track ($4.99/season):
+Premium Track (£4.99/season):
   - All free track rewards
   - +50 premium tiers
   - Exclusive skins, emotes, titles
@@ -664,7 +664,7 @@ Day 1 Conversion: 2% (FTUE > Energy gate)
 Day 7 Conversion: 8% (more experienced players)
 Day 30 Conversion: 15% (loyal players converting)
 
-Day 30 ARPU: $2.00 (conservative: low spenders)
+Day 30 ARPU: £2.00 (conservative: low spenders)
 ```
 
 #### Monetization Funnel
@@ -677,25 +677,25 @@ Day 30 ARPU: $2.00 (conservative: low spenders)
     ↓ (15% 30-day conversion)
 15K Paying Players
     
-15K × $8.33 ARPU = $125K revenue per cohort
+15K × £8.33 ARPU = £125K revenue per cohort
 ```
 
 #### Annual Revenue Projection
 ```
 Conservative Scenario:
   - 10M Year 1 downloads
-  - $2.00 ARPU average
-  = $20M Year 1 revenue
+  - £2.00 ARPU average
+  = £20M Year 1 revenue
 
 Target Scenario:
   - 25M Year 1 downloads
-  - $5.00 ARPU average
-  = $125M Year 1 revenue
+  - £5.00 ARPU average
+  = £125M Year 1 revenue
 
 Aggressive Scenario:
   - 40M Year 1 downloads
-  - $10.00 ARPU average
-  = $400M Year 1 revenue
+  - £10.00 ARPU average
+  = £400M Year 1 revenue
 ```
 
 ---
@@ -1006,7 +1006,7 @@ Total Memory:         100 MB ✅
 | **ASMR/Haptics** | ❌ None | ❌ None | ❌ None | ✅ **250 sounds + haptic** |
 | **Monetization** | Aggressive | Aggressive | Very aggressive | **Respectful** |
 | **D1 Retention** | 42% | 40% | 35% | **Target: 42%** |
-| **ARPU** | $6 | $5 | $8 | **Target: $5** |
+| **ARPU** | £6 | £5 | £8 | **Target: £5** |
 | **Unique Advantage** | Match-3 puzzle | Relaxing aesthetic | Strategic depth | **Sensory + Fairness** |
 
 **Positioning**: "Candy Crush + Royal Match fairness + unique haptic/ASMR differentiation"
@@ -1187,18 +1187,18 @@ Accessibility:
 | Metric | Industry | Target | Aggressive |
 |--------|---|---|---|
 | **Conversion Rate** | 5-8% | **6.5%** | 9% |
-| **ARPU (All)** | $3-7 | **$5** | $10 |
-| **ARPPU (Paying)** | $50-100 | **$65** | $120 |
-| **LTV** | $30-100 | **$50** | $100 |
+| **ARPU (All)** | £3-7 | **£5** | £10 |
+| **ARPPU (Paying)** | £50-100 | **£65** | £120 |
+| **LTV** | £30-100 | **£50** | £100 |
 | **LTV:CAC Ratio** | 3:1-5:1 | **4:1** | 5:1 |
 
 ### Business Metrics (Year 1)
 
 | Scenario | Downloads | ARPU | Revenue |
 |----------|-----------|------|---------|
-| **Conservative** | 10M | $2 | $20M |
-| **Target** | 25M | $5 | **$125M** |
-| **Aggressive** | 40M | $10 | $400M |
+| **Conservative** | 10M | £2 | £20M |
+| **Target** | 25M | £5 | **£125M** |
+| **Aggressive** | 40M | £10 | £400M |
 
 ### Quality Metrics
 
@@ -1368,7 +1368,7 @@ Deliverables:
 | **Differentiation** | 10/10 | ASMR + haptics unique in market |
 | **Technical** | 9/10 | <50ms generation on mid-tier devices |
 | **Art/Audio** | 9/10 | 250 binaural sounds + ray-traced glass |
-| **Potential** | 10/10 | $125M Year 1 achievable |
+| **Potential** | 10/10 | £125M Year 1 achievable |
 
 **Overall**: **STRONG MARKET POSITION** ✅
 
@@ -1392,8 +1392,8 @@ Deliverables:
 - **Month 4**: Advanced monetization optimization
 
 ### Revenue Target
-- **Year 1**: $125M (with 25M downloads, $5 ARPU)
-- **Year 2+**: $200M+ (with live-ops optimization)
+- **Year 1**: £125M (with 25M downloads, £5 ARPU)
+- **Year 2+**: £200M+ (with live-ops optimization)
 
 **Verdict**: Ready for production build and beta testing.
 

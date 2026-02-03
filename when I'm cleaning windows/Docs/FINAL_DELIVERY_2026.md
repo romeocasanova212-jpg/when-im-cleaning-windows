@@ -50,7 +50,7 @@ Your mobile game "When I'm Cleaning Windows" has been enhanced to compete with i
 
 1. **2026_COMPLETE_ENHANCEMENT_STRATEGY.md** (20 sections)
    - Game design enhancements
-   - Monetization deep dive ($125M Year 1 target)
+   - Monetization deep dive (£125M Year 1 target)
    - Live-ops infrastructure
    - ML personalization strategy
    - ASMR/haptics excellence
@@ -105,9 +105,9 @@ Your existing 16-phase Bootstrapper now extends to 21 phases:
 
 ### Monetization (From Competitive Analysis)
 - **Conversion Rate**: 6.5% target (industry: 5-8%)
-- **ARPU**: $5.00 target (industry: $3-7)
+- **ARPU**: £5.00 target (industry: £3-7)
 - **Dynamic Offers**: Projected +60% revenue lift
-- **Year 1 Revenue**: $125M target
+- **Year 1 Revenue**: £125M target
 
 ### Technical Performance
 - **Startup Time**: <2 seconds (all systems async)
@@ -271,7 +271,7 @@ BATCH_TIMEOUT_SECONDS = 300;    // 5 minutes max wait
 
 ### Week 2: "Metrics Locked"
 - D1 retention reaches 42%
-- ARPU tracking shows $5+ baseline
+- ARPU tracking shows £5+ baseline
 - Churn prediction identifies at-risk players
 
 ### Week 3: "Revenue Unlocked"
@@ -395,7 +395,7 @@ This is **production-ready code** that directly competes with:
 
 You've built something special. Now go make it legendary.
 
-**Target**: $125M Year 1 revenue 💰
+**Target**: £125M Year 1 revenue 💰
 **Timeline**: 4 weeks to full launch 📅
 **Team**: You've got everything you need 🛠️
 

@@ -433,8 +433,8 @@ namespace WhenImCleaningWindows.Editor
 
             CreateTMPText(panel.transform, "TitleText", "WELCOME!", 24, new Vector2(0.5f, 1f), new Vector2(0.5f, 1f), new Vector2(0, -20), new Vector2(200, 40));
             CreateTMPText(panel.transform, "UrgencyText", "Limited time!", 16, new Vector2(0.5f, 1f), new Vector2(0.5f, 1f), new Vector2(0, -60), new Vector2(200, 30));
-            CreateTMPText(panel.transform, "PriceText", "$0.99", 20, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 40), new Vector2(160, 30));
-            CreateTMPText(panel.transform, "OriginalPriceText", "$1.99", 14, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 10), new Vector2(160, 24));
+            CreateTMPText(panel.transform, "PriceText", "£0.99", 20, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 40), new Vector2(160, 30));
+            CreateTMPText(panel.transform, "OriginalPriceText", "£1.99", 14, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 10), new Vector2(160, 24));
             CreateTMPText(panel.transform, "DiscountBadgeText", "-50%", 14, new Vector2(1f, 1f), new Vector2(1f, 1f), new Vector2(-20, -20), new Vector2(60, 24));
             CreateTMPText(panel.transform, "RewardsText", "Rewards", 14, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -40), new Vector2(240, 60));
             CreateImage(panel.transform, "ProductIcon", new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, 90), new Vector2(80, 80));
@@ -493,7 +493,7 @@ namespace WhenImCleaningWindows.Editor
             featured.AddComponent<Image>().color = new Color(0f, 0f, 0f, 0.4f);
 
             CreateTMPText(featured.transform, "FeaturedTitleText", "Welcome Pack", 14, new Vector2(0.5f, 1f), new Vector2(0.5f, 1f), new Vector2(0, -10), new Vector2(200, 24));
-            CreateTMPText(featured.transform, "FeaturedPriceText", "$0.99", 14, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -5), new Vector2(200, 24));
+            CreateTMPText(featured.transform, "FeaturedPriceText", "£0.99", 14, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -5), new Vector2(200, 24));
             CreateTMPText(featured.transform, "FeaturedBonusText", "Bonus", 12, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -30), new Vector2(200, 24));
             CreateButton(featured.transform, "FeaturedBuyButton", "Buy", new Vector2(0.5f, 0f), new Vector2(0.5f, 0f), new Vector2(0, 10), new Vector2(100, 26));
         }

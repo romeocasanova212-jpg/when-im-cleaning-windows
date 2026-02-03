@@ -23,46 +23,46 @@
 4. Create 28 products matching these IDs:
 
 #### Starter Bundles
-- `com.cleaningwindows.welcomepack` - $0.99
-- `com.cleaningwindows.rookiebundle` - $2.99
-- `com.cleaningwindows.progressionpack` - $4.99
+- `com.cleaningwindows.welcomepack` - £0.99
+- `com.cleaningwindows.rookiebundle` - £2.99
+- `com.cleaningwindows.progressionpack` - £4.99
 
 #### Gem Packs
-- `com.cleaningwindows.gempouch` - $1.99
-- `com.cleaningwindows.gembag` - $4.99
-- `com.cleaningwindows.gempile` - $9.99
-- `com.cleaningwindows.gemchest` - $19.99
-- `com.cleaningwindows.gemvault` - $49.99
-- `com.cleaningwindows.gemtreasure` - $99.99
-- `com.cleaningwindows.gemfortune` - $199.99 (whale tier)
-- `com.cleaningwindows.gemmountain` - $299.99 (ultra whale)
+- `com.cleaningwindows.gempouch` - £1.99
+- `com.cleaningwindows.gembag` - £4.99
+- `com.cleaningwindows.gempile` - £9.99
+- `com.cleaningwindows.gemchest` - £19.99
+- `com.cleaningwindows.gemvault` - £49.99
+- `com.cleaningwindows.gemtreasure` - £99.99
+- `com.cleaningwindows.gemfortune` - £199.99 (whale tier)
+- `com.cleaningwindows.gemmountain` - £299.99 (ultra whale)
 
 #### VIP Subscriptions
-- `com.cleaningwindows.vipbronze` - $4.99/month (auto-renewing)
-- `com.cleaningwindows.vipsilver` - $9.99/month (auto-renewing)
-- `com.cleaningwindows.vipgold` - $19.99/month (auto-renewing)
+- `com.cleaningwindows.vipbronze` - £4.99/month (auto-renewing)
+- `com.cleaningwindows.vipsilver` - £9.99/month (auto-renewing)
+- `com.cleaningwindows.vipgold` - £19.99/month (auto-renewing)
 
 #### Power-Ups
-- `com.cleaningwindows.powerupnuke` - $0.99
-- `com.cleaningwindows.powerupturbo` - $0.99
-- `com.cleaningwindows.powerupautopilot` - $1.99
-- `com.cleaningwindows.poweruptimefreeze` - $1.99
+- `com.cleaningwindows.powerupnuke` - £0.99
+- `com.cleaningwindows.powerupturbo` - £0.99
+- `com.cleaningwindows.powerupautopilot` - £1.99
+- `com.cleaningwindows.poweruptimefreeze` - £1.99
 
 #### Energy Refills
-- `com.cleaningwindows.energyrefill5` - $0.99
-- `com.cleaningwindows.energyrefill10` - $1.99
+- `com.cleaningwindows.energyrefill5` - £0.99
+- `com.cleaningwindows.energyrefill10` - £1.99
 
 #### Cosmetics (Phase 3)
-- `com.cleaningwindows.squeegee_classic` - $2.99 (non-consumable)
-- `com.cleaningwindows.squeegee_gold` - $4.99 (non-consumable)
-- `com.cleaningwindows.theme_urban` - $1.99 (non-consumable)
-- `com.cleaningwindows.theme_nature` - $1.99 (non-consumable)
-- `com.cleaningwindows.particle_stars` - $0.99 (non-consumable)
-- `com.cleaningwindows.particle_rainbow` - $0.99 (non-consumable)
+- `com.cleaningwindows.squeegee_classic` - £2.99 (non-consumable)
+- `com.cleaningwindows.squeegee_gold` - £4.99 (non-consumable)
+- `com.cleaningwindows.theme_urban` - £1.99 (non-consumable)
+- `com.cleaningwindows.theme_nature` - £1.99 (non-consumable)
+- `com.cleaningwindows.particle_stars` - £0.99 (non-consumable)
+- `com.cleaningwindows.particle_rainbow` - £0.99 (non-consumable)
 
 #### Skips
-- `com.cleaningwindows.skiptimer` - $0.99
-- `com.cleaningwindows.skiplevel` - $1.99
+- `com.cleaningwindows.skiptimer` - £0.99
+- `com.cleaningwindows.skiplevel` - £1.99
 
 5. Copy **Google Play License Key** (for receipt validation)
 
@@ -230,7 +230,7 @@ Unity IAP automatically handles:
 Access localized price:
 ```csharp
 string price = UnityIAPIntegration.Instance.GetLocalizedPrice("com.cleaningwindows.welcomepack");
-// Returns: "$0.99" (US), "0,99 €" (EU), "¥120" (JP)
+// Returns: "£0.99" (US), "0,99 €" (EU), "¥120" (JP)
 ```
 
 ---
@@ -291,13 +291,13 @@ Add to Settings screen for iOS builds.
 
 ## 📈 Revenue Optimization Tips
 
-**Welcome Pack ($0.99)**:
+**Welcome Pack (£0.99)**:
 - 50% discount shown in PersonalizationEngine D1 offer
 - Highest conversion rate (target: 15-20% D1 payers)
 
 **Gem Packs**:
-- "Best Value" badge on $19.99 tier (20% bonus)
-- Whale tiers ($199.99, $299.99) for top 0.1% spenders
+- "Best Value" badge on £19.99 tier (20% bonus)
+- Whale tiers (£199.99, £299.99) for top 0.1% spenders
 
 **VIP Subscriptions**:
 - Trial period: 3 days free (configure in store)
@@ -306,7 +306,7 @@ Add to Settings screen for iOS builds.
 
 **Dynamic Pricing**:
 - Use RemoteConfigManager to adjust prices without app update
-- A/B test: $0.99 vs $1.99 Welcome Pack
+- A/B test: £0.99 vs £1.99 Welcome Pack
 - Seasonal events: Holiday bundles with 100% bonus
 
 ---

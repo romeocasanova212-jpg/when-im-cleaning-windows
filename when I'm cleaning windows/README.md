@@ -18,7 +18,7 @@
 - 🎮 **PS2 Nostalgia** (EyeToy: Play "Wishi Washi" reborn for mobile)
 - 🎧 **ASMR Excellence** (250+ binaural sounds, Formby ukulele, 120FPS haptics)
 - ♾️ **Infinite Fair Content** (10,000+ levels, 95% AI-validated, all beatable free)
-- 💎 **Smart Monetization** (72 lives/day, $0.99 value bombs, no P2W)
+- 💎 **Smart Monetization** (72 lives/day, £0.99 value bombs, no P2W)
 - 📱 **2026 Flagship Optimization** (Burst <50ms gen, 120FPS OLED, ML personalization)
 
 ### 🎯 Core Loop (120s → 40s)
@@ -32,9 +32,9 @@ From grimy **Back Alleys** (120s, 8 hazards) to chaotic **Multiverse** (40s, 25 
 ### 💰 2026 Revenue Matrix
 | Target | Downloads | ARPU | Year 1 Revenue |
 |--------|-----------|------|----------------|
-| **Conservative** | 10M | $2.00 | $91M |
-| **Target** | 25M | $4.50 | **$125M** |
-| **Aggressive** | 40M | $6.00 | $400M |
+| **Conservative** | 10M | £2.00 | £91M |
+| **Target** | 25M | £4.50 | **£125M** |
+| **Aggressive** | 40M | £6.00 | £400M |
 
 ---
 
@@ -214,8 +214,8 @@ Frost, Algae, Sap, Pollution, Fog, Nano-Bots, Blood, Pollen *(3%/sec spread when
 
 ### Progression
 - **Squeegee HQ**: Isometric meta hub (grows with stars)
-- **20+ Upgrades**: Glove Size, Turbo Speed, Idle Drones ($0.99-$14.99)
-- **Battle Pass**: 50 tiers, $4.99/month
+- **20+ Upgrades**: Glove Size, Turbo Speed, Idle Drones (£0.99-£14.99)
+- **Battle Pass**: 50 tiers, £4.99/month
 - **Daily Challenges**: 7-day streak = Exclusive Formby ukulele skin
 
 ---
@@ -228,24 +228,24 @@ Frost, Algae, Sap, Pollution, Fog, Nano-Bots, Blood, Pollen *(3%/sec spread when
 
 ### Energy System
 - **5 Lives Max** (regen 1/30min = 48/day free)
-- **Refill Options**: Watch ad (+1), $0.99 (5 lives), $2.99 (unlimited 1hr)
+- **Refill Options**: Watch ad (+1), £0.99 (5 lives), £2.99 (unlimited 1hr)
 
 ### IAP Shop (28 Items)
 | Category | Example | Price |
 |----------|---------|-------|
-| **Currency** | Starter Pack | $0.99 (250 gems + 5 lives) |
-| **Subscription** | VIP (∞ lives, 2× rewards) | $4.99/mo |
-| **Boosters** | Nuke ×10 | $1.99 |
-| **Skips** | Area Unlock | $9.99 |
-| **Cosmetics** | Legend Bundle | $24.99 |
+| **Currency** | Starter Pack | £0.99 (250 gems + 5 lives) |
+| **Subscription** | VIP (∞ lives, 2× rewards) | £4.99/mo |
+| **Boosters** | Nuke ×10 | £1.99 |
+| **Skips** | Area Unlock | £9.99 |
+| **Cosmetics** | Legend Bundle | £24.99 |
 
 ### Dynamic Pricing (Firebase ML)
 - Churn prediction: "60% Off Gems – We Miss You!"
-- Regional: ₹79 India, £3.99 UK (not $4.99 converted)
+- Regional: ₹79 India, £3.99 UK (not £4.99 converted)
 
 ### Revenue Target
-- **Year 1**: $1M+ (1M downloads × $1 ARPU)
-- **Whale Contribution**: 1% users × $50 LTV = 50% of IAP revenue
+- **Year 1**: £1M+ (1M downloads × £1 ARPU)
+- **Whale Contribution**: 1% users × £50 LTV = 50% of IAP revenue
 
 ---
 
@@ -262,7 +262,7 @@ Frost, Algae, Sap, Pollution, Fog, Nano-Bots, Blood, Pollen *(3%/sec spread when
 - [x] **Monetization Systems** (5 scripts)
   - [x] Energy + refill system (72 lives/day free, VIP unlimited)
   - [x] Dual currency (gems + coins) with VIP multipliers
-  - [x] IAP Shop framework (28 SKUs: $0.99 welcome pack, VIP tiers, Battle Pass)
+  - [x] IAP Shop framework (28 SKUs: £0.99 welcome pack, VIP tiers, Battle Pass)
   - [x] VIP Manager (3 tiers: Bronze/Silver/Gold with cumulative benefits)
   - [x] ML personalization engine (churn prediction, D1/D3/D7/D14/D30 triggers)
 - [x] **Content Generation** (3 scripts)
@@ -311,7 +311,7 @@ Frost, Algae, Sap, Pollution, Fog, Nano-Bots, Blood, Pollen *(3%/sec spread when
 - [ ] ASO + influencer seeding (50 ASMR TikTokers @ 1M+ followers)
 - [ ] £500k UA budget (AppLovin, ironSource, Unity Ads)
 - [ ] Android first, iOS 2 weeks later
-- [ ] Target: 25M downloads, $125M Year 1
+- [ ] Target: 25M downloads, £125M Year 1
 
 ---
 

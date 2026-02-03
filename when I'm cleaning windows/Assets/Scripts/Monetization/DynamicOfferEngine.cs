@@ -82,13 +82,13 @@ namespace WhenImCleaningWindows.Monetization
         
         private void InitializeOfferTemplates()
         {
-            // Template 1: Energy Pack ($0.99, Tier1 Impulse)
+            // Template 1: Energy Pack (£0.99, Tier1 Impulse)
             allOffers.Add("energy_pack_5", new OfferData
             {
                 offerId = "energy_pack_5",
                 type = OfferData.OfferType.EnergyPack,
                 tier = OfferData.OfferTier.Tier1Impulse,
-                title = "5 Lives for $0.99",
+                title = "5 Lives for £0.99",
                 description = "Continue playing immediately",
                 priceUSD = 0.99f,
                 energyIncluded = 5,
@@ -101,13 +101,13 @@ namespace WhenImCleaningWindows.Monetization
                 psychologicalTrigger = "fomo"
             });
             
-            // Template 2: Energy Pack ($2.99, Tier1 Anchoring)
+            // Template 2: Energy Pack (£2.99, Tier1 Anchoring)
             allOffers.Add("energy_pack_15", new OfferData
             {
                 offerId = "energy_pack_15",
                 type = OfferData.OfferType.EnergyPack,
                 tier = OfferData.OfferTier.Tier1Impulse,
-                title = "15 Lives for $2.99",
+                title = "15 Lives for £2.99",
                 description = "3x the value",
                 priceUSD = 2.99f,
                 energyIncluded = 15,
@@ -120,13 +120,13 @@ namespace WhenImCleaningWindows.Monetization
                 psychologicalTrigger = "anchoring"
             });
             
-            // Template 3: Energy Pack ($4.99, Whales only)
+            // Template 3: Energy Pack (£4.99, Whales only)
             allOffers.Add("energy_pack_50", new OfferData
             {
                 offerId = "energy_pack_50",
                 type = OfferData.OfferType.EnergyPack,
                 tier = OfferData.OfferTier.Tier1Impulse,
-                title = "50 Lives for $4.99",
+                title = "50 Lives for £4.99",
                 description = "Stock up and play",
                 priceUSD = 4.99f,
                 energyIncluded = 50,
@@ -144,7 +144,7 @@ namespace WhenImCleaningWindows.Monetization
                 offerId = "monday_sale_energy_5",
                 type = OfferData.OfferType.EnergyPack,
                 tier = OfferData.OfferTier.Tier2Daily,
-                title = "50% Off! $0.99 → $0.49",
+                title = "50% Off! £0.99 → £0.49",
                 description = "Monday Special - Today Only",
                 priceUSD = 0.49f,
                 energyIncluded = 5,
@@ -184,7 +184,7 @@ namespace WhenImCleaningWindows.Monetization
                 offerId = "vip_tier2_monthly",
                 type = OfferData.OfferType.EnergyPack,
                 tier = OfferData.OfferTier.Tier3Milestone,
-                title = "VIP Tier 2: $14.99/month",
+                title = "VIP Tier 2: £14.99/month",
                 description = "30 energy/day + 1.5x gems",
                 priceUSD = 14.99f,
                 energyIncluded = 900,  // 30/day × 30 days
@@ -203,7 +203,7 @@ namespace WhenImCleaningWindows.Monetization
                 offerId = "battle_pass_standard",
                 type = OfferData.OfferType.BattlePass,
                 tier = OfferData.OfferTier.Tier2Daily,
-                title = "Battle Pass: $9.99",
+                title = "Battle Pass: £9.99",
                 description = "70 levels of rewards + cosmetics",
                 priceUSD = 9.99f,
                 gemsIncluded = 8000,  // Can earn gems back

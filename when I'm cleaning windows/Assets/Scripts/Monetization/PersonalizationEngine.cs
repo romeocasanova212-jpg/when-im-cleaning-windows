@@ -156,7 +156,7 @@ namespace WhenImCleaningWindows.Monetization
                 showRate = 1.0f  // 100% show if churn risk high
             });
             
-            // D30: Loyalty Reward (churn < 0.3, spend > $20)
+            // D30: Loyalty Reward (churn < 0.3, spend > £20)
             triggers.Add(new OfferTrigger
             {
                 offerId = "loyalty_d30",

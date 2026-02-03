@@ -10,7 +10,7 @@
 - ✅ Complete in-depth competitive analysis (Candy Crush, Royal Match, Last War)
 - ✅ Comprehensive 15,000-word enhancement strategy document (2026_COMPLETE_ENHANCEMENT_STRATEGY.md)
 - ✅ Game design specifications with ASMR differentiation strategy
-- ✅ Monetization roadmap targeting $125M Year 1 revenue
+- ✅ Monetization roadmap targeting £125M Year 1 revenue
 
 ### Phase 2: Implementation (Session 3 - Current)
 - ✅ **ComboSystem.cs** - Advanced chain multiplier mechanics
@@ -112,7 +112,7 @@ Churn Risk = 0.4×(Days Inactive) + 0.2×(Low Spend) +
 
 **Offer Types** (Extends 28 existing SKUs):
 - Energy Refills: 1x, 5x, 20x
-- Gem Packs: $0.99-$99.99
+- Gem Packs: £0.99-£99.99
 - VIP Subscriptions: 7-day, 30-day, 90-day trials
 - Event Passes: Seasonal battle pass variants
 - Bundle Offers: Energy + Gems + Cosmetics (bundled discount)
@@ -361,7 +361,7 @@ feat: Add comprehensive 2026 enhancement systems
 - **D7 Retention**: 24% (industry benchmark: 20-30%)
 - **D30 Retention**: 12% (industry benchmark: 10-15%)
 - **Conversion Rate**: 6.5% (industry benchmark: 5-8%)
-- **ARPU**: $5.00 (industry benchmark: $3-7)
+- **ARPU**: £5.00 (industry benchmark: £3-7)
 - **Churn Reduction**: -30% improvement (via predictions + interventions)
 - **Monetization Lift**: +60% (via dynamic pricing)
 
@@ -485,7 +485,7 @@ If you encounter any compilation errors, runtime issues, or integration question
 
 **Estimated Path to Launch**: 4 weeks with full feature set
 **Estimated Path to Revenue**: 3-4 weeks post-launch
-**Revenue Target Year 1**: $125M (Candy Crush/Royal Match parity)
+**Revenue Target Year 1**: £125M (Candy Crush/Royal Match parity)
 
 ---
 
