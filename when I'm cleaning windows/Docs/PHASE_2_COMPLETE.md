@@ -36,13 +36,13 @@
 - **Location**: `Assets/Scripts/Monetization/IAPManager.cs`
 - **Purpose**: 28 SKU shop with Unity IAP integration (placeholder)
 - **Key Products**:
-  - **Welcome Pack**: $0.99 (500 gems + 5 lives + 1k coins) - 80% CVR target, 85% show rate
-  - **VIP Subscriptions**: Bronze ($4.99), Silver ($9.99), Gold ($19.99)
-  - **Gem Packs**: $1.99 → $99.99 (8 tiers with bonus percentages)
+  - **Welcome Pack**: £0.99 (500 gems + 5 lives + 1k coins) - 80% CVR target, 85% show rate
+  - **VIP Subscriptions**: Bronze (£4.99), Silver (£9.99), Gold (£19.99)
+  - **Gem Packs**: £1.99 → £99.99 (8 tiers with bonus percentages)
   - **Power-Ups**: Nuke, Turbo, Auto-Pilot, Time Freeze
   - **Skips**: Floor Skip, Area Unlock, World Pass (whale targeting)
   - **Cosmetics**: Squeegee skins, window themes, particle effects
-  - **Battle Pass**: Standard ($4.99), Weekly Mini ($1.99)
+  - **Battle Pass**: Standard (£4.99), Weekly Mini (£1.99)
   - Dynamic pricing support (±30% ML adjustments)
   
 #### **VIPManager.cs** (~350 lines)
@@ -67,7 +67,7 @@
     - **D3**: Progression wall (churn >0.5, 30% discount)
     - **D7**: VIP trial (churn >0.4, 50% discount)
     - **D14**: Win-back (churn >0.65, 70% discount) - "We miss you!"
-    - **D30**: Loyalty reward (churn <0.3, spend >$20, 40% discount)
+    - **D30**: Loyalty reward (churn <0.3, spend >£20, 40% discount)
   - Emergency offer trigger: 5+ consecutive deaths
   - Player profile tracking: levels completed, deaths, session length, spend history
   - Events: OnOfferTriggered, OnChurnScoreUpdated
@@ -230,10 +230,10 @@ All systems are **fully integrated** via GameManager:
 ### Energy Economy
 - **Free players**: 72 lives/day (1 per 20min)
 - **VIP players**: Unlimited forever
-- **Conversion funnel**: Welcome Pack ($0.99, 80% CVR) → VIP Bronze ($4.99)
+- **Conversion funnel**: Welcome Pack (£0.99, 80% CVR) → VIP Bronze (£4.99)
 
 ### Revenue Projections (GDD v5.0)
-- **Year 1 Target**: $97-125M (25M downloads × $4.50 ARPU)
+- **Year 1 Target**: £97-125M (25M downloads × £4.50 ARPU)
 - **Whale safety**: Spending caps, ethical safeguards, no P2W
 - **Optional social**: Alliances are opt-in (20% IAP lift, not mandatory)
 
@@ -241,7 +241,7 @@ All systems are **fully integrated** via GameManager:
 - **D1**: 85% see welcome pack (industry: 15-30%)
 - **D7**: VIP trial for churn risk >0.4
 - **D14**: 70% win-back discount for high churn (>0.65)
-- **D30**: Loyalty rewards for low churn (<0.3) + $20+ spenders
+- **D30**: Loyalty rewards for low churn (<0.3) + £20+ spenders
 - **Emergency**: 5+ consecutive deaths triggers power-up offer
 
 ---

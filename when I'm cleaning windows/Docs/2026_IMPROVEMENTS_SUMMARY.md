@@ -15,13 +15,13 @@
 - **Impact**: +50% free play time, better retention
 
 #### Starter Bundle Optimization
-- **Before**: $0.99 = 250 gems + 5 lives
-- **After**: $0.99 = **500 gems + 5 lives + 1k coins** (+100% value bomb)
+- **Before**: £0.99 = 250 gems + 5 lives
+- **After**: £0.99 = **500 gems + 5 lives + 1k coins** (+100% value bomb)
 - **Target CVR**: 80% on D1 popup (up from ~40% industry standard)
 
 #### VIP Tiers Enhanced
-- **Before**: $4.99/mo = ∞ lives + 2× rewards
-- **After**: 3-tier system ($4.99/$9.99/$19.99) with **2.5-4× rewards**, cumulative perks
+- **Before**: £4.99/mo = ∞ lives + 2× rewards
+- **After**: 3-tier system (£4.99/£9.99/£19.99) with **2.5-4× rewards**, cumulative perks
 - **New Feature**: VIP can bank 10 lives (overflow protection)
 
 #### ML Personalization Algorithm
@@ -35,7 +35,7 @@ def calculate_offer(player_profile):
 - **Trigger Points**: D1 (Welcome), D3 (Wall), D7 (VIP trial), D14 (Churn), D30 (Loyalty)
 
 #### Alliance Gift Economy (Optional)
-- $4.99+ pack purchases drop 50 gems to alliance members
+- £4.99+ pack purchases drop 50 gems to alliance members
 - **Psychology**: Social obligation loops, 15-20% IAP lift
 - **Implementation**: Opt-in, no mandatory co-op
 
@@ -114,24 +114,24 @@ World 10: 24-25 hazards, dense suds
 100,000 DAU
   ↓ 85% see Welcome Pack
 → 85,000 impressions
-  ↓ 80% CVR ($0.99 value bomb)
+  ↓ 80% CVR (£0.99 value bomb)
 → 68,000 first purchases
   ↓ 8% → VIP
-→ 5,440 VIP subs ($4.99/mo)
+→ 5,440 VIP subs (£4.99/mo)
   ↓ 1.2% → Whales
-→ 816 whales ($150/mo avg)
+→ 816 whales (£150/mo avg)
 
-Monthly Revenue: ~$270K from 100K DAU = $2.70 ARPU
+Monthly Revenue: ~£270K from 100K DAU = £2.70 ARPU
 ```
 
 #### Year 1 Projections
 | Case | Downloads | Retention | ARPU | Revenue |
 |------|-----------|----------|------|---------|
-| **Conservative** | 10M | 30% | $2.00 | **$91M** |
-| **Target** | 25M | 35% | $4.50 | **$125M** |
-| **Aggressive** | 40M | 40% | $6.00 | **$400M** |
+| **Conservative** | 10M | 30% | £2.00 | **£91M** |
+| **Target** | 25M | 35% | £4.50 | **£125M** |
+| **Aggressive** | 40M | 40% | £6.00 | **£400M** |
 
-**Realistic Target**: **$97M-$125M Year 1**
+**Realistic Target**: **£97M-£125M Year 1**
 
 ---
 
@@ -143,7 +143,7 @@ Monthly Revenue: ~$270K from 100K DAU = $2.70 ARPU
 | **D7 Retention** | 20% | **24%** | Royal Match: 28% |
 | **D30 Retention** | 10% | **12%** | Last War: 11% |
 | **Conversion** | 5% | **6.5%** | Industry: 4% |
-| **ARPU (All)** | $1 | **$4.50** | Hyper-casual: $2 |
+| **ARPU (All)** | £1 | **£4.50** | Hyper-casual: £2 |
 | **VIP %** | N/A | **3%** | Top games: 2-5% |
 
 ---
@@ -155,7 +155,7 @@ Monthly Revenue: ~$270K from 100K DAU = $2.70 ARPU
 ✅ **Transparent pricing** (no loot boxes, direct purchases)  
 ✅ **Generous energy** (72 lives/day free)  
 ✅ **VIP cancel anytime** (Apple/Google compliant)  
-✅ **Spending caps** (parental controls, whale warnings at $500/mo)  
+✅ **Spending caps** (parental controls, whale warnings at £500/mo)  
 ✅ **Anti-addiction** (session timers, mindful spending prompts)
 
 ---
@@ -187,20 +187,20 @@ Monthly Revenue: ~$270K from 100K DAU = $2.70 ARPU
 - [ ] ASO + influencer seeding
 - [ ] £500k UA budget
 - [ ] Android first, iOS 2 weeks later
-- [ ] Target: 10M downloads, $97M Year 1
+- [ ] Target: 10M downloads, £97M Year 1
 
 ---
 
 ## 💡 Key Takeaways
 
 1. **Fairer = Better Retention**: 72 lives/day, 120s timers, 95% beatable → 42% D1
-2. **Value Bombs Work**: $0.99 welcome pack (+100% value) → 80% CVR
-3. **VIP Is King**: 3% of players at $4.99/mo = 40% of revenue
+2. **Value Bombs Work**: £0.99 welcome pack (+100% value) → 80% CVR
+3. **VIP Is King**: 3% of players at £4.99/mo = 40% of revenue
 4. **ML Personalization**: Churn-triggered offers → +30% recovery
 5. **Social Loops**: Alliance gifts → +20% IAP without alienating solos
 6. **TikTok UA**: ASMR content → £0.30 CPI (vs £1+ industry avg)
 
-**The polished nostalgia hook + smart 2026 algorithms = $125M Year 1 potential.** 🚀🪟
+**The polished nostalgia hook + smart 2026 algorithms = £125M Year 1 potential.** 🚀🪟
 
 ---
 

@@ -57,44 +57,44 @@ case "com.cleaningwindows.vipgold":
 ## All 28 Products Now Properly Configured
 
 ### Starter Bundles (3)
-1. Welcome Pack - $0.99
-2. Rookie Bundle - $2.99
-3. Progression Pack - $4.99
+1. Welcome Pack - £0.99
+2. Rookie Bundle - £2.99
+3. Progression Pack - £4.99
 
 ### Gem Packs (8)
-4. Gem Pouch - $1.99
-5. Gem Bag - $4.99
-6. Gem Pile - $9.99
-7. Gem Chest - $19.99
-8. Gem Vault - $49.99
-9. Gem Treasure - $99.99
-10. Gem Fortune - $199.99
-11. Gem Mountain - $299.99
+4. Gem Pouch - £1.99
+5. Gem Bag - £4.99
+6. Gem Pile - £9.99
+7. Gem Chest - £19.99
+8. Gem Vault - £49.99
+9. Gem Treasure - £99.99
+10. Gem Fortune - £199.99
+11. Gem Mountain - £299.99
 
 ### Energy & Power-Ups (6)
-12. Energy Refill (5) - $0.99
-13. Energy Refill (10) - $1.99
-14. Power-Up: Nuke - $0.99
-15. Power-Up: Turbo - $0.99
-16. Power-Up: Auto-Pilot - $1.99
-17. Power-Up: Time Freeze - $1.99
+12. Energy Refill (5) - £0.99
+13. Energy Refill (10) - £1.99
+14. Power-Up: Nuke - £0.99
+15. Power-Up: Turbo - £0.99
+16. Power-Up: Auto-Pilot - £1.99
+17. Power-Up: Time Freeze - £1.99
 
 ### Skips (2)
-18. Skip Timer - $0.99
-19. Skip Level - $1.99
+18. Skip Timer - £0.99
+19. Skip Level - £1.99
 
 ### Cosmetics (6)
-20. Squeegee: Classic - $2.99
-21. Squeegee: Gold - $4.99
-22. Window Theme: Urban - $1.99
-23. Window Theme: Nature - $1.99
-24. Particles: Stars - $0.99
-25. Particles: Rainbow - $0.99
+20. Squeegee: Classic - £2.99
+21. Squeegee: Gold - £4.99
+22. Window Theme: Urban - £1.99
+23. Window Theme: Nature - £1.99
+24. Particles: Stars - £0.99
+25. Particles: Rainbow - £0.99
 
 ### VIP Subscriptions (3)
-26. VIP Bronze - $4.99/month
-27. VIP Silver - $9.99/month
-28. VIP Gold - $19.99/month
+26. VIP Bronze - £4.99/month
+27. VIP Silver - £9.99/month
+28. VIP Gold - £19.99/month
 
 ---
 

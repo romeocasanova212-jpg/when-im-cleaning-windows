@@ -9,9 +9,9 @@ namespace WhenImCleaningWindows.Monetization
     public enum VIPTier
     {
         None = 0,
-        Bronze = 1,  // $4.99/mo
-        Silver = 2,  // $9.99/mo
-        Gold = 3     // $19.99/mo
+        Bronze = 1,  // £4.99/mo
+        Silver = 2,  // £9.99/mo
+        Gold = 3     // £19.99/mo
     }
     
     /// <summary>

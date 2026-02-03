@@ -484,7 +484,7 @@ namespace WhenImCleaningWindows.Monetization
             
             OnPurchaseComplete?.Invoke(product);
             
-            UnityEngine.Debug.Log($"Purchase complete: {product.displayName} (${product.priceUSD})");
+            UnityEngine.Debug.Log($"Purchase complete: {product.displayName} (£{product.priceUSD})");
         }
         
         /// <summary>

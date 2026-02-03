@@ -8,7 +8,7 @@
 |--------|----------------|---------------|---------|
 | **Focus** | Fair F2P ASMR nostalgia | Fair F2P + Smart monetization algorithms | **Polished** (keeps fairness, adds intelligence) |
 | **Complexity** | Pure window cleaning | Pure window cleaning + optional alliances | **Polished** (optional layer) |
-| **Target Revenue** | $1M Year 1 | $97-125M Year 1 | **Polished** (realistic scale) |
+| **Target Revenue** | £1M Year 1 | £97-125M Year 1 | **Polished** (realistic scale) |
 
 ---
 
@@ -24,13 +24,13 @@
 ### Starter Bundles
 | | Original | 2026 Polished | Value Increase |
 |-|----------|---------------|----------------|
-| **$0.99 Pack** | 250 gems + 5 lives | **500 gems + 5 lives + 1k coins** | +100% value 📈 |
+| **£0.99 Pack** | 250 gems + 5 lives | **500 gems + 5 lives + 1k coins** | +100% value 📈 |
 | **Target CVR** | ~40% | **80%** | 2× conversion ⬆️ |
 
 ### VIP Subscriptions
 | | Original | 2026 Polished | Enhancement |
 |-|----------|---------------|-------------|
-| **Tiers** | 1 tier ($4.99) | **3 tiers ($4.99/$9.99/$19.99)** | Whale targeting ✅ |
+| **Tiers** | 1 tier (£4.99) | **3 tiers (£4.99/£9.99/£19.99)** | Whale targeting ✅ |
 | **Rewards** | 2× stars/coins | **2.5-4× stars/coins** | Better value ⬆️ |
 | **Perks** | Unlimited energy, ad-free | **+Speed boosts, cumulative levels, exclusive cosmetics** | Richer progression ✅ |
 
@@ -91,7 +91,7 @@
 | | Original | 2026 Polished | Depth |
 |-|----------|---------------|-------|
 | **Upgrade Tree** | 20+ nodes | **25 nodes** | More variety ⬆️ |
-| **Max Cost** | ~$19.99 | **~$19.99** | Same affordability ➡️ |
+| **Max Cost** | ~£19.99 | **~£19.99** | Same affordability ➡️ |
 
 ---
 
@@ -102,7 +102,7 @@
 |-|----------|---------------|-------------|
 | **Alliances** | ❌ None | **✅ Opt-in, 20-50 players** | New feature ✨ |
 | **Co-op** | ❌ None | **✅ Boss Floors (optional)** | Engagement hook ✅ |
-| **Gift Economy** | ❌ None | **✅ $4.99+ packs → 50 gem gifts** | 15-20% IAP lift 📈 |
+| **Gift Economy** | ❌ None | **✅ £4.99+ packs → 50 gem gifts** | 15-20% IAP lift 📈 |
 | **Mandatory?** | N/A | **❌ No (unlocked World 3, pure opt-in)** | Solo-friendly ✅ |
 
 ### Live Ops
@@ -122,16 +122,16 @@
 | **D7 Retention** | 20% | **24%** | +20% relative ⬆️ |
 | **D30 Retention** | 10% | **12%** | +20% relative ⬆️ |
 | **Conversion Rate** | 5% | **6.5%** | +30% relative ⬆️ |
-| **ARPU (All)** | $1 | **$4.50** | 4.5× ⬆️⬆️⬆️ |
+| **ARPU (All)** | £1 | **£4.50** | 4.5× ⬆️⬆️⬆️ |
 
 ### Year 1 Revenue
 | Case | Original | 2026 Polished | Scale |
 |------|----------|---------------|-------|
-| **Conservative** | $1M+ | **$91M** | 91× ⬆️ |
-| **Target** | N/A | **$125M** | New tier ✨ |
-| **Aggressive** | N/A | **$400M** | Moonshot 🚀 |
+| **Conservative** | £1M+ | **£91M** | 91× ⬆️ |
+| **Target** | N/A | **£125M** | New tier ✨ |
+| **Aggressive** | N/A | **£400M** | Moonshot 🚀 |
 
-**Realistic Target**: $1M → **$97-125M** (nearly 100× scale)
+**Realistic Target**: £1M → **£97-125M** (nearly 100× scale)
 
 ---
 
@@ -165,8 +165,8 @@
 1. ✅ **50% more free energy** (72 vs 48 lives/day)
 2. ✅ **33% longer World 1 timer** (120s vs 90s)
 3. ✅ **37.5% faster procedural gen** (<50ms vs <80ms)
-4. ✅ **4.5× higher ARPU** ($4.50 vs $1.00)
-5. ✅ **100× revenue scale** ($125M vs $1M target)
+4. ✅ **4.5× higher ARPU** (£4.50 vs £1.00)
+5. ✅ **100× revenue scale** (£125M vs £1M target)
 6. ✅ **Optional alliances** (0 → opt-in social layer)
 7. ✅ **ML personalization** (basic → advanced churn/frustration detection)
 8. ✅ **Ethical safeguards** (basic → comprehensive)
@@ -186,7 +186,7 @@
 |------------|----------|---------------|-------------|
 | **Dev Time** | ~14 weeks | ~20 weeks | +6 weeks for ML/alliances |
 | **UA Budget** | £10k | **£500k** | 50× scale (needed for 25M downloads) |
-| **Revenue Y1** | $1M | **$125M** | 125× return |
+| **Revenue Y1** | £1M | **£125M** | 125× return |
 | **ROI** | Good | **Exceptional** | 100× potential ⬆️⬆️⬆️ |
 
 ---
@@ -198,7 +198,7 @@
 1. **Preserves core vision**: ASMR nostalgia + fair F2P intact
 2. **Adds intelligence**: ML personalization, alliance gifts (opt-in)
 3. **Improves fairness**: 72 lives/day, 120s timers, 95% beatable
-4. **Scales revenue**: $1M → $125M realistic path
+4. **Scales revenue**: £1M → £125M realistic path
 5. **Keeps ethics**: No P2W, no loot boxes, spending caps added
 6. **Faster tech**: 37.5% gen speed boost, <40ms input lag
 7. **Better onboarding**: Gentler early game = higher retention

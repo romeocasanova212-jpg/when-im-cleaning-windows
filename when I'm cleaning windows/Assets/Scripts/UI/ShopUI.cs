@@ -191,7 +191,7 @@ namespace WhenImCleaningWindows.UI
             Button buyButton = item.transform.Find("BuyButton")?.GetComponent<Button>();
             
             if (nameText != null) nameText.text = product.displayName;
-            if (priceText != null) priceText.text = $"${product.priceUSD:F2}";
+            if (priceText != null) priceText.text = $"£{product.priceUSD:F2}";
             if (bonusText != null && product.bonusPercentage > 0)
             {
                 bonusText.text = $"+{product.bonusPercentage}%";
@@ -220,7 +220,7 @@ namespace WhenImCleaningWindows.UI
             bg.color = new Color(0f, 0f, 0f, 0.3f);
 
             CreateTMP(root.transform, "NameText", "Item", 18, new Vector2(0.5f, 1f), new Vector2(0.5f, 1f), new Vector2(0, -10));
-            CreateTMP(root.transform, "PriceText", "$0.99", 16, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -10));
+            CreateTMP(root.transform, "PriceText", "£0.99", 16, new Vector2(0.5f, 0.5f), new Vector2(0.5f, 0.5f), new Vector2(0, -10));
             CreateTMP(root.transform, "BonusText", "+0%", 14, new Vector2(1f, 1f), new Vector2(1f, 1f), new Vector2(-10, -10));
             CreateTMP(root.transform, "DescText", "", 12, new Vector2(0.5f, 0f), new Vector2(0.5f, 0f), new Vector2(0, 10));
 
@@ -274,7 +274,7 @@ namespace WhenImCleaningWindows.UI
             
             iapManager.PurchaseProduct(product.productId);
             
-            Debug.Log($"Shop: Purchasing {product.displayName} (${product.priceUSD})");
+            Debug.Log($"Shop: Purchasing {product.displayName} (£{product.priceUSD})");
         }
         
         /// <summary>
@@ -309,7 +309,7 @@ namespace WhenImCleaningWindows.UI
                 
                 if (featuredPriceText != null)
                 {
-                    featuredPriceText.text = $"${welcomePack.priceUSD:F2}";
+                    featuredPriceText.text = $"£{welcomePack.priceUSD:F2}";
                 }
                 
                 if (featuredBonusText != null)

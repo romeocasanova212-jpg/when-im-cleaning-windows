@@ -147,7 +147,7 @@ analytics.LogEvent("test_event", new {
    ```
    ChurnPredictionEngine - Calculating churn risk...
    Days inactive: 5 (Factor: 0.50)
-   Lifetime spend: $0 (Factor: 1.0)
+   Lifetime spend: £0 (Factor: 1.0)
    Session trend: Good (Factor: 0.2)
    ---> Final Churn Risk: 0.73 [HIGH RISK]
    
@@ -189,7 +189,7 @@ churnEngine.SetChurnRisk(0.9f);
    Player segment: At-Risk
    Price elasticity: 0.5x (50% discount)
    Offer type: Energy Refill (High value for at-risk players)
-   Final price: $2.49 (normally $4.99)
+   Final price: £2.49 (normally £4.99)
    
    Action: Displaying offer popup
    ```

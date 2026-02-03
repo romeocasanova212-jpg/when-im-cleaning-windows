@@ -98,46 +98,46 @@ Google Play / Apple StoreKit
 ## All 28 Products Now Fully Aligned
 
 ### Starter Bundles (3)
-- ✓ Welcome Pack - $0.99: 500 gems + 5 energy + 1,000 coins
-- ✓ Rookie Bundle - $2.99: 1,500 gems (VIP 3-day trial)
-- ✓ Progression Pack - $4.99: 3,000 gems + 10 energy
+- ✓ Welcome Pack - £0.99: 500 gems + 5 energy + 1,000 coins
+- ✓ Rookie Bundle - £2.99: 1,500 gems (VIP 3-day trial)
+- ✓ Progression Pack - £4.99: 3,000 gems + 10 energy
 
 ### Gem Packs (8)
-- ✓ Gem Pouch - $1.99: 600 gems
-- ✓ Gem Bag - $4.99: 1,700 gems
-- ✓ Gem Pile - $9.99: 4,000 gems
-- ✓ Gem Chest - $19.99: 12,000 gems
-- ✓ Gem Vault - $49.99: 35,000 gems
-- ✓ Gem Treasure - $99.99: 80,000 gems
-- ✓ Gem Fortune - $199.99: 200,000 gems
-- ✓ Gem Mountain - $299.99: 350,000 gems
+- ✓ Gem Pouch - £1.99: 600 gems
+- ✓ Gem Bag - £4.99: 1,700 gems
+- ✓ Gem Pile - £9.99: 4,000 gems
+- ✓ Gem Chest - £19.99: 12,000 gems
+- ✓ Gem Vault - £49.99: 35,000 gems
+- ✓ Gem Treasure - £99.99: 80,000 gems
+- ✓ Gem Fortune - £199.99: 200,000 gems
+- ✓ Gem Mountain - £299.99: 350,000 gems
 
 ### VIP Subscriptions (3)
-- ✓ VIP Bronze - $4.99/month
-- ✓ VIP Silver - $9.99/month
-- ✓ VIP Gold - $19.99/month
+- ✓ VIP Bronze - £4.99/month
+- ✓ VIP Silver - £9.99/month
+- ✓ VIP Gold - £19.99/month
 
 ### Power-Ups (4)
-- ✓ Nuke - $0.99
-- ✓ Turbo - $0.99
-- ✓ Auto-Pilot - $1.99
-- ✓ Time Freeze - $1.99
+- ✓ Nuke - £0.99
+- ✓ Turbo - £0.99
+- ✓ Auto-Pilot - £1.99
+- ✓ Time Freeze - £1.99
 
 ### Energy Refills (2)
-- ✓ Energy Refill (5) - $0.99: 5 energy
-- ✓ Energy Refill (10) - $1.99: 10 energy
+- ✓ Energy Refill (5) - £0.99: 5 energy
+- ✓ Energy Refill (10) - £1.99: 10 energy
 
 ### Cosmetics (6)
-- ✓ Squeegee: Classic - $2.99
-- ✓ Squeegee: Gold - $4.99
-- ✓ Window Theme: Urban - $1.99
-- ✓ Window Theme: Nature - $1.99
-- ✓ Particles: Stars - $0.99
-- ✓ Particles: Rainbow - $0.99
+- ✓ Squeegee: Classic - £2.99
+- ✓ Squeegee: Gold - £4.99
+- ✓ Window Theme: Urban - £1.99
+- ✓ Window Theme: Nature - £1.99
+- ✓ Particles: Stars - £0.99
+- ✓ Particles: Rainbow - £0.99
 
 ### Skips (2)
-- ✓ Skip Timer - $0.99
-- ✓ Skip Level - $1.99
+- ✓ Skip Timer - £0.99
+- ✓ Skip Level - £1.99
 
 ---
 
@@ -261,18 +261,18 @@ Generate obfuscated keys
 
 ## Revenue Projections (Unchanged)
 
-**Conservative**: $4.50 ARPU × 25M downloads = **$97.3M Year 1**
+**Conservative**: £4.50 ARPU × 25M downloads = **£97.3M Year 1**
 
-**Aggressive**: $6.00 ARPU × 25M downloads = **$125M Year 1**
+**Aggressive**: £6.00 ARPU × 25M downloads = **£125M Year 1**
 
 **Breakdown**:
-- Welcome Pack D1: 35% payers @ $0.99 = $0.35 ARPU
-- VIP Subscriptions: 8% payers @ $10/month avg = $9.60 LTV
-- Gem Packs: 15% payers @ $15 avg = $2.25 ARPU
-- Power-Ups & Energy: 25% payers @ $3 avg = $0.75 ARPU
-- Cosmetics: 10% payers @ $5 avg = $0.50 ARPU
+- Welcome Pack D1: 35% payers @ £0.99 = £0.35 ARPU
+- VIP Subscriptions: 8% payers @ £10/month avg = £9.60 LTV
+- Gem Packs: 15% payers @ £15 avg = £2.25 ARPU
+- Power-Ups & Energy: 25% payers @ £3 avg = £0.75 ARPU
+- Cosmetics: 10% payers @ £5 avg = £0.50 ARPU
 
-**Total ARPU**: $4.50-6.00 (weighted average over player lifetime)
+**Total ARPU**: £4.50-6.00 (weighted average over player lifetime)
 
 ---
 
