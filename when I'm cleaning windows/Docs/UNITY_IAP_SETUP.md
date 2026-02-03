@@ -230,7 +230,7 @@ Unity IAP automatically handles:
 Access localized price:
 ```csharp
 string price = UnityIAPIntegration.Instance.GetLocalizedPrice("com.cleaningwindows.welcomepack");
-// Returns: "£0.99" (US), "0,99 €" (EU), "¥120" (JP)
+// Returns localized prices: "£0.99" (UK), "$0.99" (US), "0,99 €" (EU), "¥120" (JP)
 ```
 
 ---

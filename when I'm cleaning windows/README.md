@@ -241,7 +241,7 @@ Frost, Algae, Sap, Pollution, Fog, Nano-Bots, Blood, Pollen *(3%/sec spread when
 
 ### Dynamic Pricing (Firebase ML)
 - Churn prediction: "60% Off Gems – We Miss You!"
-- Regional: ₹79 India, £3.99 UK (not £4.99 converted)
+- Regional: ₹79 India, £3.99 UK (adjusted for purchasing power parity)
 
 ### Revenue Target
 - **Year 1**: £1M+ (1M downloads × £1 ARPU)
