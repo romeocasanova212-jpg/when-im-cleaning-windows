@@ -1,0 +1,249 @@
+{
+  "catalog": {
+    "version": "1.0",
+    "products": [
+      {
+        "id": "com.cleaningwindows.welcomepack",
+        "type": "Consumable",
+        "title": "Welcome Pack",
+        "description": "BEST VALUE! +100%",
+        "price_usd": 0.99,
+        "rewards": {
+          "gems": 500,
+          "coins": 1000,
+          "energy": 5
+        }
+      },
+      {
+        "id": "com.cleaningwindows.rookiebundle",
+        "type": "Consumable",
+        "title": "Rookie Bundle",
+        "description": "VIP 3-Day Trial + Turbo",
+        "price_usd": 2.99,
+        "rewards": {
+          "gems": 1500,
+          "energy": 0
+        }
+      },
+      {
+        "id": "com.cleaningwindows.progressionpack",
+        "type": "Consumable",
+        "title": "Progression Pack",
+        "description": "Drone Lv1 Included",
+        "price_usd": 4.99,
+        "rewards": {
+          "gems": 3000,
+          "energy": 10
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gempouch",
+        "type": "Consumable",
+        "title": "Gem Pouch",
+        "description": "Small gem package",
+        "price_usd": 1.99,
+        "rewards": {
+          "gems": 600
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gembag",
+        "type": "Consumable",
+        "title": "Gem Bag",
+        "description": "Medium gem package",
+        "price_usd": 4.99,
+        "rewards": {
+          "gems": 1700
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gempile",
+        "type": "Consumable",
+        "title": "Gem Pile",
+        "description": "Large gem package",
+        "price_usd": 9.99,
+        "rewards": {
+          "gems": 4000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gemchest",
+        "type": "Consumable",
+        "title": "Gem Chest",
+        "description": "Extra large gem package",
+        "price_usd": 19.99,
+        "rewards": {
+          "gems": 12000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gemvault",
+        "type": "Consumable",
+        "title": "Gem Vault",
+        "description": "Mega gem package",
+        "price_usd": 49.99,
+        "rewards": {
+          "gems": 35000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gemtreasure",
+        "type": "Consumable",
+        "title": "Gem Treasure",
+        "description": "Huge gem package",
+        "price_usd": 99.99,
+        "rewards": {
+          "gems": 80000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gemfortune",
+        "type": "Consumable",
+        "title": "Gem Fortune",
+        "description": "Whale tier gem package",
+        "price_usd": 199.99,
+        "rewards": {
+          "gems": 200000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.gemmountain",
+        "type": "Consumable",
+        "title": "Gem Mountain",
+        "description": "Ultra whale tier gem package",
+        "price_usd": 299.99,
+        "rewards": {
+          "gems": 350000
+        }
+      },
+      {
+        "id": "com.cleaningwindows.energyrefill5",
+        "type": "Consumable",
+        "title": "Energy Refill (5)",
+        "description": "Quick Refill - One More Try!",
+        "price_usd": 0.99,
+        "rewards": {
+          "energy": 5
+        }
+      },
+      {
+        "id": "com.cleaningwindows.energyrefill10",
+        "type": "Consumable",
+        "title": "Energy Refill (10)",
+        "description": "Full Refill + 1 Bonus",
+        "price_usd": 1.99,
+        "rewards": {
+          "energy": 10
+        }
+      },
+      {
+        "id": "com.cleaningwindows.powerupnuke",
+        "type": "Consumable",
+        "title": "Power-Up: Nuke",
+        "description": "Instant Clear 50% Window",
+        "price_usd": 0.99
+      },
+      {
+        "id": "com.cleaningwindows.powerupturbo",
+        "type": "Consumable",
+        "title": "Power-Up: Turbo",
+        "description": "2× Speed for 30 Levels",
+        "price_usd": 0.99
+      },
+      {
+        "id": "com.cleaningwindows.powerupautopilot",
+        "type": "Consumable",
+        "title": "Power-Up: Auto-Pilot",
+        "description": "AI Clears Level Perfectly",
+        "price_usd": 1.99
+      },
+      {
+        "id": "com.cleaningwindows.poweruptimefreeze",
+        "type": "Consumable",
+        "title": "Power-Up: Time Freeze",
+        "description": "Pause Timer 10 Seconds",
+        "price_usd": 1.99
+      },
+      {
+        "id": "com.cleaningwindows.skiptimer",
+        "type": "Consumable",
+        "title": "Skip Timer",
+        "description": "Skip Waiting for Energy",
+        "price_usd": 0.99
+      },
+      {
+        "id": "com.cleaningwindows.skiplevel",
+        "type": "Consumable",
+        "title": "Skip Level",
+        "description": "Skip Current Level",
+        "price_usd": 1.99
+      },
+      {
+        "id": "com.cleaningwindows.squeegee_classic",
+        "type": "NonConsumable",
+        "title": "Squeegee: Classic",
+        "description": "Timeless Design",
+        "price_usd": 2.99
+      },
+      {
+        "id": "com.cleaningwindows.squeegee_gold",
+        "type": "NonConsumable",
+        "title": "Squeegee: Gold",
+        "description": "Premium Gold Finish",
+        "price_usd": 4.99
+      },
+      {
+        "id": "com.cleaningwindows.theme_urban",
+        "type": "NonConsumable",
+        "title": "Window Theme: Urban",
+        "description": "Modern City Vibes",
+        "price_usd": 1.99
+      },
+      {
+        "id": "com.cleaningwindows.theme_nature",
+        "type": "NonConsumable",
+        "title": "Window Theme: Nature",
+        "description": "Serene Natural Beauty",
+        "price_usd": 1.99
+      },
+      {
+        "id": "com.cleaningwindows.particle_stars",
+        "type": "NonConsumable",
+        "title": "Particles: Stars",
+        "description": "Sparkling Star Effects",
+        "price_usd": 0.99
+      },
+      {
+        "id": "com.cleaningwindows.particle_rainbow",
+        "type": "NonConsumable",
+        "title": "Particles: Rainbow",
+        "description": "Colorful Rainbow Effects",
+        "price_usd": 0.99
+      },
+      {
+        "id": "com.cleaningwindows.vipbronze",
+        "type": "Subscription",
+        "title": "VIP Bronze",
+        "description": "∞ Energy, 2.5× Rewards, +15% Speed",
+        "price_usd": 4.99,
+        "subscription_period": "P1M"
+      },
+      {
+        "id": "com.cleaningwindows.vipsilver",
+        "type": "Subscription",
+        "title": "VIP Silver",
+        "description": "∞ Energy, 3× Rewards, +25% Speed, Skins",
+        "price_usd": 9.99,
+        "subscription_period": "P1M"
+      },
+      {
+        "id": "com.cleaningwindows.vipgold",
+        "type": "Subscription",
+        "title": "VIP Gold",
+        "description": "∞ Energy, 4× Rewards, +40% Speed, Auto-Complete",
+        "price_usd": 19.99,
+        "subscription_period": "P1M"
+      }
+    ]
+  }
+}

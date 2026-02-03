@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5decacf871fb074496ce1b9ed1b01bb, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: Assembly-CSharp::WhenImCleaningWindows.Config.GameConfig
+  targetFrameRate: 120
+  useBurstCompilation: 1
+  maxGenerationTime: 50
+  levelCompleteThreshold: 95
+  baseCleaningRadius: 0.5
+  baseCleaningPower: 0.3
+  turboMultiplier: 2.5
+  maxFreeEnergy: 5
+  maxVipEnergy: 10
+  energyRegenTime: 1200
+  freeLivesPerDay: 72
+  baseCoinsPerLevel: 5
+  coinsPerStar: 5
+  gemDropChance: 0.05
+  minGemDrop: 2
+  maxGemDrop: 10
+  bronzeCoinMultiplier: 2.5
+  silverCoinMultiplier: 3
+  goldCoinMultiplier: 4
+  masterVolume: 0.8
+  sfxVolume: 1
+  musicVolume: 0.7
+  enableHaptics: 1
+  enableVFX: 1
+  particleQuality: 300
+  enableScreenShake: 1
+  enableDebugConsole: 1
+  showFPS: 0
+  enableCheats: 1

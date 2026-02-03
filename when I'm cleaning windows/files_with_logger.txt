@@ -1,0 +1,5 @@
+C:\Users\Romeo\Documents\GitHub\when-im-cleaning-windows\when I'm cleaning windows\Assets\Scripts\Analytics\FirebaseManager.cs
+C:\Users\Romeo\Documents\GitHub\when-im-cleaning-windows\when I'm cleaning windows\Assets\Scripts\Debug\DebugConsole.cs
+C:\Users\Romeo\Documents\GitHub\when-im-cleaning-windows\when I'm cleaning windows\Assets\Scripts\Debug\Logger.cs
+C:\Users\Romeo\Documents\GitHub\when-im-cleaning-windows\when I'm cleaning windows\Assets\Scripts\Editor\PrefabCreator.cs
+C:\Users\Romeo\Documents\GitHub\when-im-cleaning-windows\when I'm cleaning windows\Assets\Scripts\Editor\SceneSetupUtility.cs
